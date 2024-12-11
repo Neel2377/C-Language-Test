@@ -2,7 +2,6 @@
 
 int main() {
     float base_salary, HRA, DA, TA, gross_salary, total_percent;
-
     printf("Enter the base salary: ");
     scanf("%f", &base_salary); 
     HRA = 10; 
